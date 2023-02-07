@@ -22,10 +22,6 @@ Ckiptagger ▷ Tfidf ▷ Stop-word ▷ Logistic regression ▷ GridSearchCV ▷
 
 ### 績效表
 
-
-
-
-
 | ![Picture1.png](https://raw.githubusercontent.com/c4882488/c4882488/main/2023/02/07-15-23-11-Picture1.png)                                                                                                          | ![Picture2.png](https://raw.githubusercontent.com/c4882488/c4882488/main/2023/02/07-15-23-21-Picture2.png)                                                                                                          |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 模型準確率                                                                                                                                                                                                               | ROC AUC圖                                                                                                                                                                                                            |
@@ -42,4 +38,4 @@ Ckiptagger ▷ Tfidf ▷ Stop-word ▷ Logistic regression ▷ GridSearchCV ▷
 
 ---
 
-詳細的程式說明
+[詳細的程式說明](https://github.com/c4882488/Movie-comment-emotion-analysis/blob/main/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8ANLP.pdf)
